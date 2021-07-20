@@ -75,3 +75,26 @@ public class Graph
   }
 
 }
+
+
+
+/*       ============================================== OUTPUT==============
+
+C:\Users\hp\Desktop\javas>java Graph
+Enter the number of vertices and edges
+5
+6
+Enter6edges
+0 1
+1 2
+2 3
+3 4
+0 4
+2 4
+Enter source and destination
+0 3
+3-->4-->Minimum distance is2
+
+
+
+*/
