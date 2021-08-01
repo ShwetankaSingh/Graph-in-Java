@@ -1,0 +1,4 @@
+In undirected graph-----
+  for DFS and BFS....we marked visited while traversing neighbour or we can say at first time of contact we marked vertex as visited
+  
+  In directed graph...we mark visited outside of traversal of neighbours i.e before the traversal of neighbours
